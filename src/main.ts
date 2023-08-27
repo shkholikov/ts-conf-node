@@ -4,4 +4,4 @@ const name: string = "TS for NodeJS";
 
 console.log(name);
 
-analytics("Main.ts");
+analytics("Main.ts!");
