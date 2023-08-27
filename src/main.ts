@@ -1,7 +1,7 @@
-import { analytics } from "./modules/analytics.js";
+import { analytics } from './modules/analytics.js';
 
-const name: string = "TS for NodeJS";
+const name: string = 'TS for NodeJS';
 
 console.log(name);
 
-analytics("Main.ts!");
+analytics('Main.ts!');
